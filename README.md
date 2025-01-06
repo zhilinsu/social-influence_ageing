@@ -86,3 +86,9 @@ The output files would be `ku0_kld_ya.RData` and `ku0_kld_oa.RData`.
 Run the R script `analysis.R` to generate plots and conduct all the behavioural analyses included in the manuscript. The code is well-documented and should be self-explanatory. 
 
 Several linear mixed-effects models and simulation-based analyses are being used, which may extend the time needed to complete the analyses.
+
+---
+
+## License 
+
+This license (CC BY-NC 4.0) gives you the right to re-use and adapt, as long as you note any changes you made, and provide a link to the original source. Read [here](https://creativecommons.org/licenses/by-nc/4.0/) for more details.
